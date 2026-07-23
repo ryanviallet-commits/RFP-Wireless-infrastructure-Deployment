@@ -18,16 +18,15 @@ the access point placement will be produced when the heatmap is made
 before installing you need too clean the part of the ceiling the access point will be on before installing it, then you need too configure it and give it an ip address in your network
 the access point will bridge the wireless devices too the local area network
 how we will configure the security on the access points is we will make a super uniqe and long password and enforce WPA3 encryption for wireless traffic 
- Testing and validation
- Documentation
- Basic maintenance and support expectations
+we will test the access points by using tools like iperf3 between a wired server and a wirless device measuring maximum bandwidth and packet loss
+We will doccument all the steps and procedures for all the configurations
+basic matinence will be doing updates on it regularly and cleaning the outside of the access point too prevent too much dust collecting on it
+
 4. 4. Technical Requirements
- Wi-Fi 6 or newer
- WPA3
-NSA-590 – Technical Writing and Documentation | Assignment 4 | Victor Chavez | v1.0 | July 20, 2026
- Guest network isolation
- VLAN integration
- Monitoring and reporting
+We will be implementing Wi-Fi 7 incase of future growth and with highspeed fiber connections 
+for security we will be using WPA3-enterprise which will increase encryption strength too 192 bits which will also make server certificate validaition mandatory which will prevent credential theft and ransom attacks from happening
+Our guest network isolation will secure the public wifi from the rest of the network and prevent anyone from accessing the rest of the network from the public wifi while still allowing our customers too access the public wifi
+our VLAN integration will secure point of sale (POS) systems and protect our data and customers data especially customers with accounts with us, they could be at risk for data breach if not implemented, it works by segmenting the infrastructure in logical networks
  Support for the expected number of users and devices
  Scalability
  Mandatory and preferred requirements
