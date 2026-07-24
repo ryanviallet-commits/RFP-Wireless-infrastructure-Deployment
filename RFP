@@ -6,15 +6,15 @@ a common problem would be that there is old and slow wifi that hasent been upgra
 it needs too be changed now more than ever because we are getting new cash registers and new self checkouts.
 
 2. Project Objectives
-the ammount of covrage will be the same but the wifi will be way faster and have way higher bandwidth which will be required for our new devices
-the new wifi that we will be using will be wi-fi 7 because it is the newest wifi and can handle speeds up too 320 Gbps 
+for the ammount of covrage will be the same but the wifi will be way faster and have way higher bandwidth which will be required for our new devices
+for the new wifi that we will be using will be wi-fi 7 because it is the newest wifi and can handle speeds up too 320 Gbps 
 for security measures we will implement network segmentaition which will divide our network into smaller sub networks, we will deploy next generaition firewalls which will continuously filter inbound and outbound internet traffic and dectect threats
 we will deploy a monitoring and management tool called zabbix which is a free enterprise  open source monitoring and management system which can automate device discovery and can dectect external threats
 for supporting growth wifi 7 has pleanty of bandwidth which will allow for further growth in the future
 
 3. Scope of Work
-the heatmap will be made later on in the future 
-the access point placement will have 4 in the main area of the store and 3 in the back
+the heatmap will be made by our vendor once we hire them
+for the access point placements we will have 4 in the main area of the store and 3 in the back
 before installing you need too clean the part of the ceiling the access point will be on before installing it, then you need too configure it and give it an ip address in your network
 the access point will bridge the wireless devices too the local area network
 how we will configure the security on the access points is we will make a super uniqe and long password and enforce WPA3 encryption for wireless traffic 
