@@ -14,7 +14,7 @@ for supporting growth wifi 7 has pleanty of bandwidth which will allow for furth
 
 3. Scope of Work
 the heatmap will be made later on in the future 
-the access point placement will be produced when the heatmap is made
+the access point placement will have 4 in the main area of the store and 3 in the back
 before installing you need too clean the part of the ceiling the access point will be on before installing it, then you need too configure it and give it an ip address in your network
 the access point will bridge the wireless devices too the local area network
 how we will configure the security on the access points is we will make a super uniqe and long password and enforce WPA3 encryption for wireless traffic 
@@ -22,29 +22,27 @@ we will test the access points by using tools like iperf3 between a wired server
 We will doccument all the steps and procedures for all the configurations
 basic matinence will be doing updates on it regularly and cleaning the outside of the access point too prevent too much dust collecting on it
 
-4. 4. Technical Requirements
+4. Technical Requirements
 We will be implementing Wi-Fi 7 incase of future growth and with highspeed fiber connections 
 for security we will be using WPA3-enterprise which will increase encryption strength too 192 bits which will also make server certificate validaition mandatory which will prevent credential theft and ransom attacks from happening
 Our guest network isolation will secure the public wifi from the rest of the network and prevent anyone from accessing the rest of the network from the public wifi while still allowing our customers too access the public wifi
 our VLAN integration will secure point of sale (POS) systems and protect our data and customers data especially customers with accounts with us, they could be at risk for data breach if not implemented, it works by segmenting the infrastructure in logical networks
- Support for the expected number of users and devices
- Scalability
- Mandatory and preferred requirements
-5. 5. Deliverables
- Site survey report
- Wireless network design
- Installed and configured access points
- Network diagram
- Test results
- Administrator guide
- Support plan
+for monitoring and reporting we implemented zabbix which is a monitoring tool that will report any suspicious activity in our network
+the Wi-Fi 7 will easily support the amount of customers and employees we have along with all our new access points and new cash registers and self checkouts
+our new network will allow for more scalability for both scaling up and scaling out
+for adding our new wifi 7 we will need too upgrade alot of devices too be able too be comaptable with the new wifi too unlock its full potential
+
+5. Deliverables
+we will create a site survey report which will be used too plan and deploy all our wireless network and our wired network
+our wireless network design will be planned with high capacity and will identify all our cash registers and self checkouts and computers in our back room.
+our network design will also include 7 of our access points, we will have 4 in the main part of our store and 3 in the back which will be closer due too freezers and fridges blocking the way for lots of signal 
+our network diagram will include all of our devices and will show where each access point is and where each self checkout and cash register is and each desktop in the back is 
+our vendor should run tests on all of our devices and our network too make sure that all of our devices can connect too our network and that our customers can access the network through our portal too access the wifi
+our vendors should supply us an adminastrator guide so that we can know the layout and diagram of our network after it has been deployed  
+our support plan will include all of there services and timelines for installation and will include all our delivirables in one big plan. 
 6. 6. Timeline and Pricing
- Proposal deadline
- Vendor selection date
- Project start date
- Installation and testing period
- Project completion date
- Initial costs and ongoing costs
+our proposal deadline will be in 1 month from posting this Request for proposal (RFP) and we will be selecting our vendor in one month from now
+
 7. 7. Evaluation Criteria
  Create a weighted evaluation table that totals 100 percent
 8. 8. Submission and Terms
