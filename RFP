@@ -36,7 +36,7 @@ for adding our new wifi 7 we will need too upgrade alot of devices too be able t
 we will create a site survey report which will be used too plan and deploy all our wireless network and our wired network
 our wireless network design will be planned with high capacity and will identify all our cash registers and self checkouts and computers in our back room.
 our network design will also include 7 of our access points, we will have 4 in the main part of our store and 3 in the back which will be closer due too freezers and fridges blocking the way for lots of signal 
-our network diagram will include all of our devices and will show where each access point is and where each self checkout and cash register is and each desktop in the back is 
+our network diagram will include all of our devices and will show where each access point is and where each self checkout and cash register is and each desktop in the back is
 our vendor should run tests on all of our devices and our network too make sure that all of our devices can connect too our network and that our customers can access the network through our portal too access the wifi
 our vendors should supply us an adminastrator guide so that we can know the layout and diagram of our network after it has been deployed  
 our support plan will include all of there services and timelines for installation and will include all our delivirables in one big plan. 
@@ -47,12 +47,18 @@ our project start date for our project will be on September 13 2026, the time in
 our installation date will be disscussed with the vendor but the deadline for installation is dec 1 2026 because that is when our new devices will be comming in
 the project should be completed by jan 1 2027 so we can start off the new year with our brand new self checkouts and registers
 our budget for the project will be from around $15000 to $40000, which includes all access points and switches and all new registars and self checkouts
+
 7. 7. Evaluation Criteria
- Create a weighted evaluation table that totals 100 percent
+Technical solution	35%
+Security	25%
+Implementation plan	15%
+Vendor experience	20%
+Pricing	5%
+Total	100%
+
 8. 8. Submission and Terms
- Submission format and contact information
- Late-submission policy
- Confidentiality
- Support expectations
- Change-control process
- Contract duration
+you can subbmit your application by email at HR@Vialletmart.ca and you should send us a pdf file of your application
+late submissions will not be accepted unless there is a lack of submissions
+all applications will all be confidental and wont be seen by anyone except us
+the change control process is  1 initiation 2 Assessment 3 Review and approval 4 implamentation 5 closure and doccumentation
+the contract duration will last from September 13 2026 to Jan 1 2027
