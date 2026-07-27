@@ -49,12 +49,15 @@ the project should be completed by Jan 1 2027 so we can start off the new year w
 our budget for the project will be from around $15000 to $40000, which includes all access points and switches and all new registers and self checkouts  
 
 ## 7. Evaluation Criteria
-Technical solution	35%  
-Security	25%  
-Implementation plan	15%  
-Vendor experience	20%  
-Pricing	5%  
-Total	100%  
+
+| Evaluation Criteria | Weight |
+|---------------------|:------:|
+| Technical Solution | 35% |
+| Security | 25% |
+| Implementation Plan | 15% |
+| Vendor Experience | 20% |
+| Pricing | 5% |
+| **Total** | **100%** |
 
 ## 8. Submission and Terms
 you can submit your application by email at HR@Vialletmart.ca and you should send us a pdf file of your application  
